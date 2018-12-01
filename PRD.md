@@ -25,7 +25,10 @@
 ## 产品架构
 ![image](https://upload-images.jianshu.io/upload_images/9130153-4157cf549371949e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
 ## 界面
-![image](https://upload-images.jianshu.io/upload_images/9130153-34979540d9a1c4ea.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/313/format/webp)![image](https://upload-images.jianshu.io/upload_images/9130153-1fb6fd463b437b38.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/311/format/webp)
+![image](https://upload-images.jianshu.io/upload_images/9130153-34979540d9a1c4ea.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/313/format/webp)
+打开这个小程序/软件是首页状态
+![image](https://upload-images.jianshu.io/upload_images/9130153-1fb6fd463b437b38.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/311/format/webp)
+
 ![image](https://upload-images.jianshu.io/upload_images/9130153-685c16325df63b87.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/826/format/webp)
 
 ## 产品基本功能：
