@@ -31,10 +31,14 @@ target release:2018.11.25
  
 ## 产品架构
 ![image](https://upload-images.jianshu.io/upload_images/9130153-4157cf549371949e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
+- https://upload-images.jianshu.io/upload_images/9130153-4157cf549371949e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp
 ## 界面
-![image](https://upload-images.jianshu.io/upload_images/9130153-34979540d9a1c4ea.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/313/format/webp)![image](https://upload-images.jianshu.io/upload_images/9130153-1fb6fd463b437b38.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/311/format/webp)
+![image](https://upload-images.jianshu.io/upload_images/9130153-34979540d9a1c4ea.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/313/format/webp)
+- https://upload-images.jianshu.io/upload_images/9130153-34979540d9a1c4ea.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/313/format/webp
+![image](https://upload-images.jianshu.io/upload_images/9130153-1fb6fd463b437b38.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/311/format/webp)
+- https://upload-images.jianshu.io/upload_images/9130153-1fb6fd463b437b38.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/311/format/webp
 ![image](https://upload-images.jianshu.io/upload_images/9130153-685c16325df63b87.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/826/format/webp)
-
+- https://upload-images.jianshu.io/upload_images/9130153-685c16325df63b87.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/826/format/webp
 ## 产品基本功能：
 1.  拍照识别植物之后，会显示植物的基本介绍，详情看原型。
 2. 用户看完绿植介绍时，就会掉落一些植物碎片或金币，植物碎片可以合成特殊植物，（上传此地图上没有的植物的图片，可获得特殊奖励）。
