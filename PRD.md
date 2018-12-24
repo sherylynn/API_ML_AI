@@ -74,7 +74,7 @@ https://github.com/ccwwen/try/tree/master
 调用API
 
 
-```
+```python
 import base64
 import requests
 url_host = "http://plantgw.nongbangzhu.cn"
@@ -114,7 +114,7 @@ info()
 2.识别杂草
 ![狗尾草.jpg](https://upload-images.jianshu.io/upload_images/9130153-0662418171084be3.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-```
+```python
 def weed():
     url_path = '/plant/recognize_weed'
 
@@ -169,7 +169,7 @@ weed()
 输出结果
 
 
-```
+```python
 import base64
 import requests
 url_host = "http://plantgw.nongbangzhu.cn"
