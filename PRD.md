@@ -74,7 +74,7 @@ https://github.com/ccwwen/try/tree/master
 调用API
 
 
-```
+```python
 import base64
 import requests
 url_host = "http://plantgw.nongbangzhu.cn"
@@ -114,7 +114,7 @@ info()
 2.识别杂草
 ![狗尾草.jpg](https://upload-images.jianshu.io/upload_images/9130153-0662418171084be3.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-```
+```python
 def weed():
     url_path = '/plant/recognize_weed'
 
@@ -131,7 +131,7 @@ weed()
 
 ```
 
-```
+```json
 {"Status":0,"Message":"OK","Result":[{"Score":"71.10","AliasList":[],"Genus":"狗尾草属","InfoCode":"lxBYUeDkinFIebDN","AliasName":"","Family":"禾本科","ImageUrl":"https://api.aiplants.cn/resource/1001/%E9%87%91%E8%89%B2%E7%8B%97%E5%B0%BE%E8%8D%89/57b22cd5eee20ca7a42052f2c295ec24bee56743bf4082d8b386d0fb1f22a51e.jpeg","LatinName":"Setaria pumila",
 "Name":"金色狗尾草"},{"Score":"26.63","AliasList":["谷莠子","莠"],"Genus":"狗尾草属","InfoCode":"Ldky3VBXkBXT1gk1","AliasName":"谷莠子、莠","Family":"禾本科","ImageUrl":"https://api.aiplants.cn/resource/1001/%E7%8B%97%E5%B0%BE%E8%8D%89/3eb25266b9522aa0c4579c4cee8509ffe595f981c0792c5881a77087a353ce99.jpeg","LatinName":"Setaria viridis",
 "Name":"狗尾草"},{"Score":"2.04","AliasList":["法氏狗尾草"],"Genus":"狗尾草属","InfoCode":"LTRjFvZfKKGC42gA","AliasName":"法氏狗尾草","Family":"禾本科","ImageUrl":"https://api.aiplants.cn/resource/1001/%E5%A4%A7%E7%8B%97%E5%B0%BE%E8%8D%89/3c685666212f4bcddabc866372f6261d3e53e770a2e8c0a14904c5a85b8e2d03.jpeg","LatinName":"Setaria faberi",
@@ -150,7 +150,7 @@ weed()
 输出
 ![60QN)DG[AWX6HM}Y)SZ{GAQ.png](https://upload-images.jianshu.io/upload_images/9130153-df3f0f29d4c5438a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-```
+```json
 {"Status":0,"Message":"OK","Result":[{"Score":"68.33","AliasList":["蟑螂花","龙爪花"],"Genus":"石蒜属","InfoCode":"b7bK68TQkpSYFWQy","AliasName":"蟑螂花、龙爪花","Family":"石蒜科","ImageUrl":"https://api.aiplants.cn/resource/1001/%E7%9F%B3%E8%92%9C/a57f668fc68e5576ecd5629079b2f62a7883a7981a98d43c84ea8ee12f734fe0.jpeg","LatinName":"Lycoris radiata",
 "Name":"石蒜"},{"Score":"10.90","AliasList":[],"Genus":"虎耳兰属","InfoCode":"YYsDD68zEX3S5IJA","AliasName":"","Family":"石蒜科","ImageUrl":"https://api.aiplants.cn/resource/1001/%E7%BD%91%E7%90%83%E8%8A%B1/326d5acf43296dcfea5403c200090b10553ffe018cc05ff8801072d334d4c326.jpeg","LatinName":"Haemanthus multiflorus",
 "Name":"网球花"},{"Score":"3.47","AliasList":["宽苞茅膏菜"],"Genus":"茅膏菜属","InfoCode":"r7GxejtzIogOxTAh","AliasName":"宽苞茅膏菜","Family":"茅膏菜科","ImageUrl":"https://api.aiplants.cn/resource/1001/%E5%8C%99%E5%8F%B6%E8%8C%85%E8%86%8F%E8%8F%9C/b0ed070faf73d9ceda1c7b5fd787947e2b1563adb89033e373f47e721d13625f.jpeg","LatinName":"Drosera spatulata",
@@ -169,7 +169,7 @@ weed()
 输出结果
 
 
-```
+```python
 import base64
 import requests
 url_host = "http://plantgw.nongbangzhu.cn"
@@ -190,7 +190,7 @@ def recognize2():
 recognize2()
 ```
 
-```
+```json
 
 {"Status":0,"Message":"OK","Result":[{"Score":"21.48","AliasList":["红毛大字草"],"Genus":"虎耳草属","InfoCode":"54rnyde9GLF7wR4i","AliasName":"红毛大字草","Family":"虎耳草科","ImageUrl":"https://api.aiplants.cn/resource/1001/%E7%BA%A2%E6%AF%9B%E8%99%8E%E8%80%B3%E8%8D%89/120d6ca9d339de3ab7245cf239ad26cd443bfdccf4e6de083f90f5f5c57955f9.jpeg","LatinName":"Saxifragarufescens",
 "Name":"红毛虎耳草"},
